@@ -1,0 +1,27 @@
+- Data Science is a process of using data to understand different things, to understand the world.
+
+
+Data Science is a process, not an event. It is the process of using data to understand different things, to understand the world.
+
+You have a model or hypothesis of a problem, and you try to validate that hypothesis or model with your data.
+
+ Data science is the art of uncovering the insights and trends that are hiding behind data. It's when you translate data into a story. 
+
+ Data science is a field about processes and systems to extract data from various forms of whether it is unstructured or structured form. Data science is the study of data. 
+
+
+Fundamentals of Data Science
+
+
+- has a significant data analysis component. 
+- understand environments, 
+
+- Ask questions, clarify, what data to be used structure or unstructured, 
+
+
+"Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
+
+There are  many paths to a career in data science; most, but not all, involve a little math, a little science, and a lot of curiosity about data.
+
+New data scientists need to be curious, judgemental and argumentative.
+Why data science is considered the sexiest job in the 20th century, paying high salaries for skilled workers."
