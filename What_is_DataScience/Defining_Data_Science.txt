@@ -37,3 +37,16 @@ The typical work day for a Data Scientist varies depending on what type of proje
 Many algorithms are used to bring out insights from data. 
 
 Accessing algorithms, tools, and data through the Cloud enables Data Scientists to stay up-to-date and collaborate easily.
+
+
+Data Science Topics:
+
+In this lesson, you have learned:
+
+How Big Data is defined by the Vs: Velocity, Volume, Variety, Veracity, and Value.
+
+How Hadoop and other tools, combined with distributed computing power,  are used to handle the demands of Big Data.
+
+What skills are required to analyse Big Data. 
+
+About the process of Data Mining, and how it produces results.
