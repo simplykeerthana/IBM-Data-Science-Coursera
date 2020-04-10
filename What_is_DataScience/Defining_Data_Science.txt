@@ -41,7 +41,7 @@ Accessing algorithms, tools, and data through the Cloud enables Data Scientists 
 
 Data Science Topics:
 
-In this lesson, you have learned:
+
 
 How Big Data is defined by the Vs: Velocity, Volume, Variety, Veracity, and Value.
 
@@ -50,3 +50,15 @@ How Hadoop and other tools, combined with distributed computing power,  are used
 What skills are required to analyse Big Data. 
 
 About the process of Data Mining, and how it produces results.
+
+
+
+Deep Learning and Machine Learning .... What's the difference 
+
+The differences between some common Data Science terms, including Deep Learning and Machine Learning.
+
+Deep Learning is a type of Machine Learning that simulates human decision-making using neural networks.
+
+Machine Learning has many applications, from recommender systems that provide relevant choices for customers on commercial websites, to detailed analysis of financial markets.
+
+How to use regression to analyze data.
