@@ -25,3 +25,15 @@ There are  many paths to a career in data science; most, but not all, involve a 
 
 New data scientists need to be curious, judgemental and argumentative.
 Why data science is considered the sexiest job in the 20th century, paying high salaries for skilled workers."
+
+What do data scientists do?
+
+
+Cloud is a godsend for data scientists primarily because you take your data, take your information, and put it in the Cloud, put it in the central storage system
+
+
+The typical work day for a Data Scientist varies depending on what type of project they are working on.
+
+Many algorithms are used to bring out insights from data. 
+
+Accessing algorithms, tools, and data through the Cloud enables Data Scientists to stay up-to-date and collaborate easily.
