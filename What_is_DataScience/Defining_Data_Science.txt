@@ -82,3 +82,11 @@ Companies recruiting for a Data Science team need to understand the variety of d
 
 High school students considering a career in Data Science should learn programming, math, databases, and, most importantly practice their skills.
 
+
+Data Scientists need programming, mathematics, and database skills, many of which can be gained through self-learning.
+
+Companies recruiting for a Data Science team need to understand the variety of different roles Data Scientists can play, and look for soft skills like storytelling and relationship building as well as technical skills.
+
+High school students considering a career in Data Science should learn programming, math, databases, and, most importantly practice their skills.
+
+
